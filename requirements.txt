@@ -18,3 +18,5 @@ ensure
 fastapi
 uvicorn
 Jinja2
+accelerate # For Ease of multi-device training, Mixed precision, Zero Redundancy opyimizer
+#transformers-accelerate
